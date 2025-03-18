@@ -1,0 +1,175 @@
+{
+    "response": "# Why People Like Vodka\n\n## Individual Preferences & Social Contexts\n\n* **Sharing with others:** Some individuals enjoy vodka as a social drink to share with friends and family.\n* **Sociable drink for parties:** Vodka is often perceived as a suitable beverage for parties and social gatherings.\n* **Personal preference/taste:** Some people simply like the taste of vodka.\n* **Perceived high quality:**  Some individuals appreciate vodka for its perceived high quality, even simpler brands.\n\n## Brand-Specific Preferences\n\n* **Ketel One:**  One respondent identified Ketel One as their second favorite vodka. Another respondent was less familiar with Ketel One, finding it similar in taste to Absolut but more expensive.\n* **Smirnoff:**  One respondent described Smirnoff as something they like to share with others. Another considered it a sociable drink for parties. A third respondent appreciated Smirnoff as a simple, yet high-quality brand.\n* **Skyy:** One respondent simply stated they \"Like\" Skyy vodka.\n* **Svedka:** One respondent expressed strong approval for Svedka. Conversely, another respondent disliked vodka in general, including Svedka.\n\n## Negative Perceptions\n\n* **Negative experience with Ciroc/Smirnoff mix:** One respondent reported a negative experience with vodka (specifically Ciroc and Smirnoff), stating it made them feel unwell and they couldn't recall the specifics.\n* **Dislike of vodka:** Some individuals simply do not like vodka.\n* **Price sensitivity:**  Cost can be a factor in vodka preference, with some finding certain brands too expensive.\n\n\nIt's important to note that these responses represent individual opinions and experiences.  The reasons for liking or disliking vodka are subjective and vary widely.  Further research would be needed to draw broader conclusions about consumer preferences for vodka.\n",
+    "summary_with_citations": [
+        {
+            "text": "# Why People Like Vodka\n\n## Individual Preferences & Social Contexts\n\n* **Sharing with others:** Some individuals enjoy vodka as a social drink to share with friends and family.",
+            "citations": []
+        },
+        {
+            "text": "\n* **Sociable drink for parties:** Vodka is often perceived as a suitable beverage for parties and social gatherings.",
+            "citations": []
+        },
+        {
+            "text": "\n* **Personal preference/taste:** Some people simply like the taste of vodka.",
+            "citations": []
+        },
+        {
+            "text": "\n* **Perceived high quality:**  Some individuals appreciate vodka for its perceived high quality, even simpler brands.",
+            "citations": []
+        },
+        {
+            "text": "\n\n## Brand-Specific Preferences\n\n* **Ketel One:**  One respondent identified Ketel One as their second favorite vodka.",
+            "citations": []
+        },
+        {
+            "text": " Another respondent was less familiar with Ketel One, finding it similar in taste to Absolut but more expensive.",
+            "citations": []
+        },
+        {
+            "text": "\n* **Smirnoff:**  One respondent described Smirnoff as something they like to share with others.",
+            "citations": []
+        },
+        {
+            "text": " Another considered it a sociable drink for parties.",
+            "citations": []
+        },
+        {
+            "text": " A third respondent appreciated Smirnoff as a simple, yet high-quality brand.",
+            "citations": []
+        },
+        {
+            "text": "\n* **Skyy:** One respondent simply stated they \"Like\" Skyy vodka.",
+            "citations": []
+        },
+        {
+            "text": "\n* **Svedka:** One respondent expressed strong approval for Svedka. Conversely, another respondent disliked vodka in general, including Svedka.",
+            "citations": []
+        },
+        {
+            "text": "\n\n## Negative Perceptions\n\n* **Negative experience with Ciroc/Smirnoff mix:** One respondent reported a negative experience with vodka (specifically Ciroc and Smirnoff), stating it made them feel unwell and they couldn't recall the specifics.",
+            "citations": []
+        },
+        {
+            "text": "\n* **Dislike of vodka:** Some individuals simply do not like vodka.",
+            "citations": []
+        },
+        {
+            "text": "\n* **Price sensitivity:**  Cost can be a factor in vodka preference, with some finding certain brands too expensive.",
+            "citations": []
+        },
+        {
+            "text": "\n\n\nIt's important to note that these responses represent individual opinions and experiences.  The reasons for liking or disliking vodka are subjective and vary widely.  Further research would be needed to draw broader conclusions about consumer preferences for vodka.\n",
+            "citations": []
+        }
+    ],
+    "source_documents": [],
+    "session_id": "projects/635240276356/locations/eu/collections/default_collection/engines/pernod-ricard-knowledge-source-search-engine-beta/sessions/10896444060274025878",
+    "follow_up_prompts": [
+        "What is Ketel One vodka like?",
+        "What is the taste of Ketel One vodka?",
+        "What makes vodka popular?"
+    ],
+    "verbatim": [
+        {
+            "verbatim": "It is something I like to share with people around me.",
+            "brand_label": "['Smirnoff']",
+            "date": "August 2020"
+        },
+        {
+            "verbatim": "I think of this as the most common form of vodka that I consume. I like it decently, especially in its forms that arent just straight liquor.",
+            "brand_label": "['Smirnoff']",
+            "date": "December 2021"
+        },
+        {
+            "verbatim": "It is a sociable drink for people who like to party",
+            "brand_label": "['Smirnoff']",
+            "date": "December 2020"
+        },
+        {
+            "verbatim": "not very familiar with thius one but it tastes like absolute and is more expensive. negative",
+            "brand_label": "['Ketel One']",
+            "date": "June 2018"
+        },
+        {
+            "verbatim": "Its a simple but quite high quality brand that i like",
+            "brand_label": "['Smirnoff']",
+            "date": "October 2023"
+        },
+        {
+            "verbatim": "This is my 2nd favorite vodka and are really really like it",
+            "brand_label": "['Ketel One']",
+            "date": "May 2019"
+        },
+        {
+            "verbatim": "Also another alcohol ive discovered i enjoy drinking",
+            "brand_label": "['Smirnoff']",
+            "date": "November 2018"
+        },
+        {
+            "verbatim": "Like",
+            "brand_label": "['Skyy']",
+            "date": "November 2017"
+        },
+        {
+            "verbatim": "Man I paid like 9 dollars for this 5th it small",
+            "brand_label": "['Svedka']",
+            "date": "April 2021"
+        },
+        {
+            "verbatim": "was at my neighbor's house and we drank whipped cream vodka with blue curaco and sprite.. good, like hanging out with friends.",
+            "brand_label": "['Absolut', 'Smirnoff']",
+            "date": "September 2019"
+        },
+        {
+            "verbatim": "Took shots in college at a party and got drunk. I felt good at the beginning but then felt like crap because I got sick",
+            "brand_label": "['Smirnoff', 'Svedka']",
+            "date": "March 2023"
+        },
+        {
+            "verbatim": "i like it. i like it",
+            "brand_label": "['Courvoisier', 'Svedka', 'Chivas Regal', 'Scotch (Sub-net)', 'North American/Irish (Sub-net)', 'Whisky (net)', 'American (Sub-sub-net)', \"Jack Daniel's\"]",
+            "date": "October 2020"
+        },
+        {
+            "verbatim": "I like taqueria. Nothing",
+            "brand_label": "['Smirnoff']",
+            "date": "February 2020"
+        },
+        {
+            "verbatim": "I love",
+            "brand_label": "['Smirnoff']",
+            "date": "November 2017"
+        },
+        {
+            "verbatim": "I like to enjoy a drink while making dinner with the family. I was in a great mood having everyone together",
+            "brand_label": "['Kahlua', 'New Amsterdam Vodka', 'Svedka', 'White Claw', 'High Noon']",
+            "date": "April 2022"
+        },
+        {
+            "verbatim": "I was at a bar like. Relaxed",
+            "brand_label": "['Absolut', 'Ciroc']",
+            "date": "September 2018"
+        },
+        {
+            "verbatim": "Good value for the money and for people like me",
+            "brand_label": "['Absolut']",
+            "date": "April 2024"
+        },
+        {
+            "verbatim": "A high quality product for people like me",
+            "brand_label": "['Smirnoff']",
+            "date": "May 2021"
+        },
+        {
+            "verbatim": "Really enjoy mixing it with other things and like to let loose",
+            "brand_label": "['Absolut']",
+            "date": "July 2024"
+        },
+        {
+            "verbatim": "never tried it but people seem to like it",
+            "brand_label": "[\"Tito's\"]",
+            "date": "July 2018"
+        }
+    ],
+    "is_verbatim_response": true
+}

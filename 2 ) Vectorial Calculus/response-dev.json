@@ -1,0 +1,259 @@
+{
+    "response": "# Why People Like Tequila\n\nPeople enjoy tequila for a variety of reasons, including:\n\n## Taste and Quality\n\n* **Good Taste/Nice:** Some find tequila to be simply \"very good and nice\".\n* **\"Like Me\":**  One respondent described Clase Azul tequila as being \"like me,\" suggesting a personal connection with the brand.\n* **Cheapest Good Tequila:**  1800 tequila was praised as \"the cheapest tequila that’s actually good\".\n* **Quality Tequila:** Herradura was described as a \"quality tequila\".\n\n## Relaxation and Stress Reduction\n\n* **Relaxation:** A respondent stated that tequila is \"very relaxing\" and helps them unwind after work.\n* **Stress Reduction:**  The same respondent also drinks tequila \"to reduce stress\".\n\n## Social Occasions and Celebrations\n\n* **Celebrations:** Tequila is a popular choice for celebrations.\n* **Big Events:** Herradura is considered \"great for big events\".\n* **Hanging Out with Friends:**  A respondent associated tequila with \"hanging out at our friends house\".\n\n## Personal Preference\n\n* **Preferred Alcohol:**  One respondent stated that tequila is their \"#1 form of alcohol that I prefer\".\n* **Margaritas:** Patron is enjoyed \"for margaritas\".\n\n## Other\n\n* **Popularity:**  Tanqueray was described as being liked by many people.\n* **Unspecified Positive Qualities:**  1800 tequila was simply described as \"good\".\n\n\nIt's important to note that these reasons are based on individual responses and may not represent the views of all tequila drinkers.  The data also shows a range of brands preferred, suggesting that brand loyalty and specific characteristics of different tequilas also play a role in consumer preference.\n",
+    "summary_with_citations": [
+        {
+            "text": "# Why People Like Tequila\n\nPeople enjoy tequila for a variety of reasons, including:\n\n## Taste and Quality\n\n* **Good Taste/Nice:** Some find tequila to be simply \"very good and nice\".",
+            "citations": []
+        },
+        {
+            "text": "\n* **\"Like Me\":**  One respondent described Clase Azul tequila as being \"like me,\" suggesting a personal connection with the brand.",
+            "citations": []
+        },
+        {
+            "text": "\n* **Cheapest Good Tequila:**  1800 tequila was praised as \"the cheapest tequila that’s actually good\".\n*",
+            "citations": []
+        },
+        {
+            "text": " **Quality Tequila:** Herradura was described as a \"quality tequila\".\n\n",
+            "citations": []
+        },
+        {
+            "text": "## Relaxation and Stress Reduction\n\n* **Relaxation:** A respondent stated that tequila is \"very relaxing\" and helps them unwind after work.\n*",
+            "citations": []
+        },
+        {
+            "text": " **Stress Reduction:**  The same respondent also drinks tequila \"to reduce stress\".\n\n",
+            "citations": []
+        },
+        {
+            "text": "## Social Occasions and Celebrations\n\n* **Celebrations:** Tequila is a popular choice for celebrations.\n*",
+            "citations": []
+        },
+        {
+            "text": " **Big Events:** Herradura is considered \"great for big events\".\n*",
+            "citations": []
+        },
+        {
+            "text": " **Hanging Out with Friends:**  A respondent associated tequila with \"hanging out at our friends house\".\n\n",
+            "citations": []
+        },
+        {
+            "text": "## Personal Preference\n\n* **Preferred Alcohol:**  One respondent stated that tequila is their \"#1 form of alcohol that I prefer\".\n*",
+            "citations": []
+        },
+        {
+            "text": " **Margaritas:** Patron is enjoyed \"for margaritas\".\n\n",
+            "citations": []
+        },
+        {
+            "text": "## Other\n\n* **Popularity:**  Tanqueray was described as being liked by many people.\n*",
+            "citations": []
+        },
+        {
+            "text": " **Unspecified Positive Qualities:**  1800 tequila was simply described as \"good\".\n\n",
+            "citations": []
+        },
+        {
+            "text": "\nIt's important to note that these reasons are based on individual responses and may not represent the views of all tequila drinkers.  The data also shows a range of brands preferred, suggesting that brand loyalty and specific characteristics of different tequilas also play a role in consumer preference.\n",
+            "citations": []
+        }
+    ],
+    "source_documents": [],
+    "session_id": "projects/958506128989/locations/global/collections/default_collection/engines/pernod-ricard-knowledge-source-search-engine-dev/sessions/15597764773832304927",
+    "follow_up_prompts": [
+        "What makes tequila relaxing?",
+        "What occasions call for tequila?",
+        "What's the taste of tequila like?",
+        "What's a respondent's favorite tequila?",
+        "What mood does tequila evoke?"
+    ],
+    "verbatim": [
+        {
+            "verbatim": "The cheapest tequila that’s actually good",
+            "brand_label": [
+                "1800"
+            ],
+            "date": "May 2022"
+        },
+        {
+            "verbatim": "I like it.Its good.",
+            "brand_label": [
+                "1800"
+            ],
+            "date": "September 2023"
+        },
+        {
+            "verbatim": "have a lot of people",
+            "brand_label": [
+                "José Cuervo"
+            ],
+            "date": "April 2023"
+        },
+        {
+            "verbatim": "It’s great I love the idea",
+            "brand_label": [
+                "1800"
+            ],
+            "date": "November 2024"
+        },
+        {
+            "verbatim": "its veyr good and ncie, people like it  alot they really do. its veyr good and ncie, people like it  alot they really do",
+            "brand_label": [
+                "Tanqueray",
+                "Patron",
+                "Cruzan",
+                "Deep Eddy",
+                "Redbreast",
+                "North American/Irish (Sub-net)",
+                "Whisky (net)",
+                "Irish (Sub-sub-net)"
+            ],
+            "date": "July 2020"
+        },
+        {
+            "verbatim": "Tequila, Mexico",
+            "brand_label": [
+                "Cazadores"
+            ],
+            "date": "May 2018"
+        },
+        {
+            "verbatim": "Very tasty and everyone loves it",
+            "brand_label": [
+                "Don Julio"
+            ],
+            "date": "April 2024"
+        },
+        {
+            "verbatim": "Love",
+            "brand_label": [
+                "1800"
+            ],
+            "date": "February 2018"
+        },
+        {
+            "verbatim": "Quality tequila, great for big events",
+            "brand_label": [
+                "Herradura"
+            ],
+            "date": "September 2019"
+        },
+        {
+            "verbatim": "Hangimg out at our friends house this past weekend like we Always do.. Joyful Happy Excited",
+            "brand_label": [
+                "Grey Goose",
+                "Ketel One",
+                "Tito's",
+                "Don Julio",
+                "Patron",
+                "1800",
+                "Crown Royal",
+                "Woodford Reserve",
+                "North American/Irish (Sub-net)",
+                "Whisky (net)",
+                "American (Sub-sub-net)",
+                "Canadian (Sub-sub-net)"
+            ],
+            "date": "June 2020"
+        },
+        {
+            "verbatim": "I like it for margaritas",
+            "brand_label": [
+                "Patron"
+            ],
+            "date": "November 2024"
+        },
+        {
+            "verbatim": "Friend bought it for me and liked it afterwords",
+            "brand_label": [
+                "Jameson"
+            ],
+            "date": "May 2018"
+        },
+        {
+            "verbatim": "I truly enjoy this one and I will have it regularly.",
+            "brand_label": [
+                "1800"
+            ],
+            "date": "June 2024"
+        },
+        {
+            "verbatim": "Tequila is my #1 form of alcohol that I prefer.  I drink it several nights each week to relax after work.. I like the taste of this form of alcohol the best, and it is very relaxing for me.",
+            "brand_label": [
+                "Patron",
+                "José Cuervo"
+            ],
+            "date": "November 2022"
+        },
+        {
+            "verbatim": "ive only had this shot one time so i cant really speak much of it. other then it taste like every other tequila",
+            "brand_label": [
+                "1800"
+            ],
+            "date": "August 2019"
+        },
+        {
+            "verbatim": "A great tequila for everyone to enjoy",
+            "brand_label": [
+                "Don Julio"
+            ],
+            "date": "May 2024"
+        },
+        {
+            "verbatim": "Its great u like it",
+            "brand_label": [
+                "1800"
+            ],
+            "date": "October 2023"
+        },
+        {
+            "verbatim": "Last Saturday at my daughter’s birthday party. I was so happy love tequila",
+            "brand_label": [
+                "Smirnoff",
+                "Patron",
+                "1800",
+                "Buchanan's",
+                "White Claw",
+                "Scotch (Sub-net)",
+                "Whisky (net)"
+            ],
+            "date": "July 2021"
+        },
+        {
+            "verbatim": "Just lounging around.  From dusk until the sunrise, drink drink drink. Yes, I felt like a big grizzly bear in the urban city",
+            "brand_label": [
+                "Hennessy",
+                "Absolut",
+                "Patron",
+                "José Cuervo",
+                "Crown Royal",
+                "Glenfiddich",
+                "Fireball",
+                "Scotch (Sub-net)",
+                "North American/Irish (Sub-net)",
+                "Whisky (net)",
+                "Canadian (Sub-sub-net)"
+            ],
+            "date": "December 2022"
+        },
+        {
+            "verbatim": "I am very like to rum . That's time was 2019 my friend through a challenge  for me . If i take a 8 glass drink he gives me 100 dollar . I also  agree with he . At the last time i am wine this challenge . I get 100 dollar .. This is very nice time . That's time was a family and friends party . I like this type party of my life .",
+            "brand_label": [
+                "Smirnoff",
+                "Altos",
+                "Avion",
+                "Captain Morgan",
+                "Cruzan",
+                "Glenfiddich",
+                "Jameson",
+                "Jefferson's",
+                "Scotch (Sub-net)",
+                "North American/Irish (Sub-net)",
+                "Whisky (net)",
+                "Irish (Sub-sub-net)"
+            ],
+            "date": "September 2020"
+        }
+    ],
+    "is_verbatim_response": true
+}
